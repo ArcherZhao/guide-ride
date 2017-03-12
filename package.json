@@ -1,0 +1,28 @@
+{
+  "name": "guide-ride",
+  "version": "1.0.0",
+  "description": "Create walkthroughs and guided tours for your page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArcherZhao/guide-ride.git"
+  },
+  "keywords": [
+    "walkthroughs",
+    "guide"
+  ],
+  "author": "Archer Zhao <zlming1015@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArcherZhao/guide-ride/issues"
+  },
+  "homepage": "https://github.com/ArcherZhao/guide-ride#readme",
+  "devDependencies": {
+    "eslint": "^3.17.1",
+    "eslint-plugin-react": "^6.10.0",
+    "webpack": "^2.2.1"
+  }
+}
